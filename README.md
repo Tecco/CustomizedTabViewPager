@@ -1,10 +1,9 @@
-# UrlImageToGridView
+# CustomizedTabViewPager
 
-2 Column GridView. 3 Tabs.
+![Output sample](https://github.com/Tecco/CustomizedTabViewPager/blob/master/CustomizedTabViewPager.gif)
 
-Image file paths and Texts are loaded from local Json file.
-(Images by Http request)
+## TabTextColors
+edit res/tab_wigdet_color.xml
 
-![Output sample](https://github.com/Tecco/UrlImageToGridView/blob/master/UrlImageToGridView_Movie.gif)
-
-This software includes the work that is distributed in the Apache License 2.0.
+## TabIndicatorColors
+edit res/values/colors.xml
