@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomizedTabViewPager</string>
+
+    <string name="title_section1">Tab1</string>
+    <string name="title_section2">Tab2</string>
+    <string name="title_section3">Tab3</string>
+</resources>

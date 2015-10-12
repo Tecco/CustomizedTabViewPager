@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indicator_color">#2980b9</color>
+    <color name="border_color">#8e44ad</color>
+
+    <color name="flagment1_background">#1abc9c</color>
+    <color name="flagment2_background">#16a085</color>
+    <color name="flagment3_background">#27ae60</color>
+</resources>
