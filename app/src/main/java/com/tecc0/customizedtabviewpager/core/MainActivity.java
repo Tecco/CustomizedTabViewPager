@@ -1,4 +1,4 @@
-package com.tecc0.customizedtabviewpager;
+package com.tecc0.customizedtabviewpager.core;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -18,6 +18,11 @@ import android.widget.TabHost;
 import android.widget.TabWidget;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.tecc0.customizedtabviewpager.R;
+import com.tecc0.customizedtabviewpager.fragment.Fragment1;
+import com.tecc0.customizedtabviewpager.fragment.Fragment2;
+import com.tecc0.customizedtabviewpager.fragment.Fragment3;
 
 import java.util.Locale;
 
